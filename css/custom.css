@@ -4,8 +4,20 @@ body {
 	}
 	
 h1, h2, h3, h4, h5, h6 {
-	color: black;
+	color: #000080;
+	text-align: center;
 	}
+
+p{
+	text-align: left;
+	color: #000080;
+}
+
+p:first-letter{
+	font-weight: bold;
+	font-size: 2.8em;
+	color: rgb(136, 3, 3);
+}
 	
 .feature {
 	background: lightskyblue linear-gradient(to bottom, lightskyblue,rgb(193, 193, 230));
