@@ -41,6 +41,8 @@ p:first-letter{
     
 .footer-blurb-item {
     padding: 30px;
+	border-style: dotted;
+	border-color: #000080;
     }
  
 .small-print {
